@@ -1,0 +1,2 @@
+https://www.leshetu.com/page/1?s=%E6%8A%B1%E8%B5%B0%E8%8E%AB%E5%AD%90
+requests.exceptions.SSLError: HTTPSConnectionPool(host='www.leshetu.com', port=443): Max retries exceeded with url: /xz/wlj/17412.html (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1122)')))
